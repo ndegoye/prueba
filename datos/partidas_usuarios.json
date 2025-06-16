@@ -1,0 +1,8 @@
+[
+  {
+    "id_partida": 1,
+    "usuarios": [
+      {"nombre": "player1", "supervivencia": "00:00:00", "puntaje": 0}
+    ]
+  }
+]
